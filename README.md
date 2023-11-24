@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/sameeriqbal742" target="blank"><img src="https://img.shields.io/twitter/follow/sameeriqbal742?logo=twitter&style=for-the-badge" alt="sameeriqbal742" /></a> </p>
 
-- 🌱 I’m currently learning **HTML,CSS, JavaScript,React,TypeScript,Phython,AWS, ReactNative, NextJS, Mongo DB, Express JS, Nodejs**
+- 🌱 I’m currently learning **HTML,CSS, JavaScript**
 
-- 💬 Ask me about **HTML,CSS, JavaScript,React,TypeScript,Phython,AWS, ReactNative, NextJS, Mongo DB, Express JS, Nodejs**
+- 💬 Ask me about **HTML,CSS, JavaScript**
 
 - 📫 How to reach me **sameeriqbal14312@gmail.com**
 
